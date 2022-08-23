@@ -1,0 +1,19 @@
+{
+  "app_name": "Template",
+  "general_error": "Ops, qualcosa è andato storto! Riprova più tardi",
+  "incorrect_data": "Username e/o password non corretti",
+  "yes": "Si",
+  "no": "No",
+  "no_data": "Non sono presenti dati",
+  "email_error": "E-mail non valida",
+  "password_error": "Password non valida",
+  "password_not_match": "Le password non corrispondono",
+  "required_field": "Campo obbligatorio",
+  "confirm": "Conferma",
+  "undo": "Annulla",
+  "delete": "Elimina",
+  "save_success": "Salvataggio avvenuto con successo!",
+  "delete_confirm": "Sei sicuro di voler rimuovere l'elemento?",
+  "select_placeholder": "Seleziona…",
+  "select_multiple_placeholder": "Seleziona uno o più elementi…"
+}
